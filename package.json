@@ -55,10 +55,7 @@
   },
   "author": "Limsathya#2846",
   "license": "MIT",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Limsathya#2846/Multipurpose-discord-bot"
-  },
+  
   "keywords": [
     "lavalink",
     "music",
@@ -79,8 +76,6 @@
     "reaction",
     "reactions"
   ],
-  "bugs": {
-    "url": "https://github.com/Limsathya#2846/Multipurpose-discord-bot/issues"
-  },
+
   "homepage": "https://milrato.dev"
 }
